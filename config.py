@@ -7,7 +7,7 @@ API_ID = int(os.environ.get("API_ID", "34110783"))
 # ------------------------------------------------
 API_HASH = os.environ.get("API_HASH","1c321be9e4c2aa7468fdadd7a986ac14")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("8905155180:AAHf4UO-dQqheO7OnO7MRIP0ukAeAqozkeE", "")
+BOT_TOKEN = os.environ.get("8930186040:AAH9QN7h2q7TF1j28Txxatp640z2ynVio-s", "")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@courseExteractorqBot"")
 BOT_TEXT = "Sandeep BHAI KA EXTRACTOR"
