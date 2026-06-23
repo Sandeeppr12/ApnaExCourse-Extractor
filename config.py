@@ -15,14 +15,14 @@ BOT_TEXT = "Sandeep BHAI KA EXTRACTOR"
 OWNER_ID = int(os.environ.get("OWNER_ID", "8550270153"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003993778018"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1004292495949"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003993778018")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1004292495949")) 
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://besib69802:YMOfgvnyjbRgW5qt@cluster0.yzzu2gn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1003993778018"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1004292495949"))
 # -----------------------------------------------
 join = '<a href="https://t.me/RPSC_UPSC_CURRENT">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
@@ -38,8 +38,8 @@ THUMB_URL = os.environ.get("THUMB_URL", "https://josephscollege.ac.in/wp-content
 
 
 # # Bot configuration
-# API_ID = int(os.environ.get("API_ID", "21157244"))
-# API_HASH = os.environ.get("API_HASH", "4981c2699bd91c7db836ec8f77e5b0f0")
+# API_ID = int(os.environ.get("API_ID", "34110783"))
+# API_HASH = os.environ.get("API_HASH", "1c321be9e4c2aa7468fdadd7a986ac14")
 # BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 # BOT_USERNAME = os.environ.get("BOT_USERNAME", "Gajjubhaikaext_bot")
 # OWNER_ID = int(os.environ.get("OWNER_ID", "1783306092"))
